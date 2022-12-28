@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hejin_intro">Hello World! My name is Hejin.\nI like to travel around the world and learn different cultures💗</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
